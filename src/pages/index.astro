@@ -30,6 +30,18 @@ import "../styles/global.css";
     <section>
       <Hero />
       <About />
+        <!-- Skills Section -->
+  <section id="skills">
+    <h2>Skills</h2>
+    {Object.entries(siteConfig.skills).map(([category, skills]) => (
+      <div class="skill-category">
+        <h3>{category}</h3>
+        <ul>
+          {skills.map(skill => <li>{skill}</li>)}
+        </ul>
+      </div>
+    ))}
+  </section>
       <Projects />
       <Experience />
       <Education />
