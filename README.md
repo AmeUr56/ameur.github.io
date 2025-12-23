@@ -16,6 +16,10 @@ This template also comes with `CLAUDE.md` and `.cursor/rules` files for easy int
 
 To view a live preview of the site, [click here](https://ryanfitzgerald.github.io/devportfolio/).
 
+
+
+
+
 ## Built With
 
 - **[Astro](https://astro.build/)** - Static site generator for modern web apps
