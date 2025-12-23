@@ -7,7 +7,7 @@ export const siteConfig = {
     email: "ameurboughers@gmail.com",
     linkedin: "https://www.linkedin.com/in/ameurb-25a155247",
     twitter: "",
-    github: "https://github.com/ameurboughers",
+    github: "https://github.com/ameur56",
   },
   aboutMe:
     "AI Engineer and Backend Developer based in Algeria with expertise in machine learning, deep learning, and AI model deployment. Skilled in building AI solutions for computer vision, NLP, and time series analysis, and experienced in creating scalable backend systems using Flask and FastAPI. Passionate about automation, AI-driven solutions, and delivering high-quality software systems for startups and enterprises.",
@@ -33,16 +33,17 @@ export const siteConfig = {
       link: "",
       skills: ["Python", "OpenCV", "YOLOv8", "MediaPipe", "Flask"],
     },
-    {
+    /*{
       name: "Enterprise Showroom Management System",
       description:
         "Designed and built a production-grade showroom management system covering users, inventory, sales, accounting, and notifications with strong data integrity and scalability.",
       link: "",
       skills: ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy", "Docker", "Redis"],
-    },
+    }*/
+    ,
   ],
   experience: [
-    {
+    /*{
       company: "Novaq",
       title: "Founder & Lead AI & Backend Consultant",
       dateRange: "Sep 2025 - Present",
@@ -51,7 +52,7 @@ export const siteConfig = {
         "Design and deploy scalable backend systems with FastAPI & Flask",
         "Lead end-to-end projects including requirements, implementation, and deployment",
       ],
-    },
+    }*/,
     {
       company: "Satield",
       title: "Founder & CEO | AI & Backend Engineer",
